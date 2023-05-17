@@ -28,7 +28,7 @@ Para instalar e executar o sistema de Agenda Médica em PHP em seu ambiente loca
 1. Clone este repositório em sua máquina local.
 
 ```bash
-git clone https://github.com/seu-usuario/agenda-medica-php.git
+git clone https://github.com/fsithole7/agenda-medica-php.git
 ```
 
 2. Configure o ambiente de desenvolvimento PHP, MySQL e Apache em sua máquina local. Você pode usar o XAMPP ou WAMP para configurar um ambiente de desenvolvimento local.
@@ -43,11 +43,11 @@ git clone https://github.com/seu-usuario/agenda-medica-php.git
 
 ## Contribuindo
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para enviar pull requests com melhorias ou correções de bugs. Você também pode entrar em contato comigo pelo e-mail [seuemail@gmail.com](mailto:seuemail@gmail.com) para compartilhar suas ideias ou feedback.
+Se você deseja contribuir para este projeto, sinta-se à vontade para enviar pull requests com melhorias ou correções de bugs. Você também pode entrar em contato comigo pelo e-mail [fjose7@isced.ac.mz](mailto:fjose7@isced.ac.mz) para compartilhar suas ideias ou feedback.
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seunome). Você pode entrar em contato comigo pelo e-mail [seuemail@gmail.com](mailto:seuemail@gmail.com).
+Este projeto foi desenvolvido por [Seu Nome](https://github.com/fsithole7). Você pode entrar em contato comigo pelo e-mail [fjose7@isced.ac.mz](mailto:fjose7@isced.ac.mz).
 
 ## Licença
 
